@@ -22,7 +22,7 @@ struct ContentView: View {
     let model: GenerativeModel
     
     init() {
-        model = GenerativeModel(name: "gemini-1.5-flash", apiKey: "AIzaSyDpCg46eGiCgS8CTzv1x4iQl7811MLAJOs", generationConfig: config)
+        model = GenerativeModel(name: "gemini-1.5-flash", apiKey: "YOUR_API_KEY", generationConfig: config)
     }
     
     var body: some View {
