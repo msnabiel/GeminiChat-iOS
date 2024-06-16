@@ -30,8 +30,8 @@ This SwiftUI messaging app demonstrates real-time messaging capabilities with in
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/swiftui-messaging-app.git
-   cd swiftui-messaging-app
+   git clone https://github.com/msnabiel/GeminiChat-iOS.git
+   cd GeminiChat-iOS
    ```
 
 2. **Install Dependencies:**
@@ -43,7 +43,7 @@ This SwiftUI messaging app demonstrates real-time messaging capabilities with in
 3. **Open the Project:**
    Open the Xcode workspace:
    ```bash
-   open swiftui-messaging-app.xcworkspace
+   open GeminiChat-iOS.xcworkspace
    ```
 
 4. **Configure API Key:**
